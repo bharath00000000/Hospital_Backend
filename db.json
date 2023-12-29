@@ -1,0 +1,107 @@
+{
+  "doctors": [
+    {
+      "name": "Srikrishna Bharadwaj Peddinti",
+      "salary": "5446587",
+      "gender": "male",
+      "age": "23",
+      "specialization": "cardio",
+      "id": 1
+    },
+    {
+      "name": "Bharath",
+      "salary": "60000",
+      "gender": "male",
+      "age": "56",
+      "specialization": "Physio",
+      "id": 2
+    },
+    {
+      "name": "Yamini",
+      "salary": "80000",
+      "gender": "female",
+      "age": "54",
+      "specialization": "Gynochology",
+      "id": 3
+    },
+    {
+      "name": "Prathima",
+      "salary": "76000",
+      "gender": "female",
+      "age": "54",
+      "specialization": "cardio",
+      "id": 4
+    },
+    {
+      "name": "Prasad",
+      "salary": "78000",
+      "gender": "male",
+      "age": "56",
+      "specialization": "cardio",
+      "id": 5
+    },
+    {
+      "name": "Sriram",
+      "salary": "60000",
+      "gender": "male",
+      "age": "56",
+      "specialization": "cardio",
+      "id": 6
+    },
+    {
+      "name": "Mark",
+      "salary": "60000",
+      "gender": "male",
+      "age": "56",
+      "specialization": "Physio",
+      "id": 7
+    }
+  ],
+  "patients": [
+    {
+      "name": "Ganesh",
+      "weight": "89",
+      "gender": "male",
+      "age": "56",
+      "disease": "asdf",
+      "doctor": "Yamini",
+      "id": 2
+    },
+    {
+      "name": "bharath",
+      "weight": "75",
+      "gender": "male",
+      "age": "23",
+      "disease": "Malaria",
+      "doctor": "Srikrishna Bharadwaj Peddinti",
+      "id": 3
+    },
+    {
+      "name": "Sriram",
+      "weight": "75",
+      "gender": "male",
+      "age": "23",
+      "disease": "Malaria",
+      "doctor": "Bharath",
+      "id": 5
+    },
+    {
+      "name": "Chandu",
+      "weight": "75",
+      "gender": "male",
+      "age": "26",
+      "disease": "asdf",
+      "doctor": "Prathima",
+      "id": 7
+    },
+    {
+      "name": "John",
+      "weight": "89",
+      "gender": "male",
+      "age": "54",
+      "disease": "hjuio",
+      "doctor": "Prasad",
+      "id": 8
+    }
+  ]
+}
